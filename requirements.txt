@@ -1,0 +1,7 @@
+streamlit
+pandas
+datatime
+openai
+time
+numpy
+timedelta
