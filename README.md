@@ -1,17 +1,14 @@
-# Medical_Tracker_Application
-
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/d87fc2b5-0a6c-425e-b2f4-1b6c36da4850" />
 
-I created a digital medication tracker and personal health record application that allows users to store, retrieve, and manage their daily medications and health logs through a Python application that stores data in a .csv file
 
-The main features of my application are as follows :
+# Digital Medication Tracker & Personal Health Record
 
-1- Adding new medication to the tracker which is added to the original Medical_Tracker.csv
+A lightweight, Python-based health management application that allows users to seamlessly store, retrieve, and track daily medications alongside personal health logs. The application utilizes local `.csv` files for persistent data management.
 
-2- Search for medications by active ingredient/symptom
+## 🚀 Key Features
 
-3- Receive a beneficial tip
-
-4- View all logged medications which are added to My_Medications.csv
-
-5- Lastly, gaining an insights through a Chatbot
+*   **Master Inventory Management:** Add new medications directly to the master reference database (`Medical_Tracker.csv`).
+*   **Intelligent Search Functionality:** Query medications instantly by active ingredient or associated symptoms.
+*   **Daily Wellness Tips:** Receive beneficial, context-aware health and wellness insights.
+*   **Personalized Health Logging:** Track individual history and view all logged dosages recorded in your personal history (`My_Medications.csv`).
+*   **Interactive Chatbot Analytics:** Gain data-driven insights and health overviews through an integrated chatbot assistant.
