@@ -19,6 +19,7 @@ A lightweight, Python-based health management application that allows users to s
 
 ## 📹 Video Demonstartion 
 
+https://github.com/user-attachments/assets/80de3b7a-87ef-4f39-b404-b5822f405a31
 * https://drive.google.com/file/d/1H1kpB_4Cxk7h9svx85quwFzQBDq6i6LZ/view?usp=sharing
 
 ## 🚧 Key Limitions
