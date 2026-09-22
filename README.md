@@ -12,3 +12,13 @@ A lightweight, Python-based health management application that allows users to s
 *   **Daily Wellness Tips:** Receive beneficial, context-aware health and wellness insights.
 *   **Personalized Health Logging:** Track individual history and view all logged dosages recorded in your personal history (`My_Medications.csv`).
 *   **Interactive Chatbot Analytics:** Gain data-driven insights and health overviews through an integrated chatbot assistant.
+
+## 📹 Video demonstartion 
+
+* https://drive.google.com/file/d/1H1kpB_4Cxk7h9svx85quwFzQBDq6i6LZ/view?usp=sharing
+
+## 🚧 Key Limitions
+
+*  **Dosgae Warning:** The user isnt warned about dosage overdose if their medications contains similar ingredients.
+*  **Data API Integration:** The application doesn't fetch real active ingredient lists or standard dosage recommendations directly from a public pharmaceutical
+API when adding a new medication.
