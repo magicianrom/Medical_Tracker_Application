@@ -46,7 +46,7 @@ if st.button("Add Medication"):
     #prints new data altogether by concatenation
     medicine = pd.concat([medicine, df])
 
-    medicine.to_csv("../../excercises/week2/Medical_Tracker.csv", index=False)
+    medicine.to_csv("csv/Medical_Tracker.csv", index=False)
 
     st.success("Medication added successfully!")
 
