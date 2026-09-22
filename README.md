@@ -13,7 +13,11 @@ A lightweight, Python-based health management application that allows users to s
 *   **Personalized Health Logging:** Track individual history and view all logged dosages recorded in your personal history (`My_Medications.csv`).
 *   **Interactive Chatbot Analytics:** Gain data-driven insights and health overviews through an integrated chatbot assistant.
 
-## 📹 Video demonstartion 
+## ☑️ Live Demonstartion
+
+* https://medicaltrackerapplication-zlp2ujtzrxsytmgzyfgx7e.streamlit.app
+
+## 📹 Video Demonstartion 
 
 * https://drive.google.com/file/d/1H1kpB_4Cxk7h9svx85quwFzQBDq6i6LZ/view?usp=sharing
 
