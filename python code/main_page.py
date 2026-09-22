@@ -3,11 +3,12 @@ import pandas as pd
 
 st.sidebar.markdown("# Medication tracker")
 
-st.image("../../images/add1.png", width=300 )
+st.image("images/add1.png", width=300)
+#st.image("../../images/add1.png", width=300 )
 
 st.title("Add New Medication")
-
-medicine = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
+medicine = pd.read_csv("csv/Medical_Tracker.csv")
+#medicine = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
 
 #user adds input fields of their new medicine
 
