@@ -6,7 +6,7 @@ from openai import OpenAI
 st.markdown("# ChatGPT Medical")
 st.sidebar.markdown("# Ask Medicine Recommendations ")
 
-st.image("../../images/chat1.png", width=300 )
+st.image("/images/chat1.png", width=300 )
 
 # Set OpenRouter API key from Streamlit secrets
 client = OpenAI(
