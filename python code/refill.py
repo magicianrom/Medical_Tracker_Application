@@ -2,10 +2,13 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
 
-medicine = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
-my_medicine = pd.read_csv("../../excercises/week2/My_Medications.csv")
+medicine = pd.read_csv("csv/Medical_Tracker.csv")
+my_medicine = pd.read_csv("csv/My_Medications.csv")
+#medicine = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
+#my_medicine = pd.read_csv("../../excercises/week2/My_Medications.csv")
 
-st.image("../../images/reminder1.png", width=300 )
+st.image("images/reminder1.png", width=300)
+#st.image("../../images/reminder1.png", width=300 )
 st.title("Medical Tracker")
 
 #select box to select medical name easily, as it fills fields such as ingredient, dosage, frequency.
