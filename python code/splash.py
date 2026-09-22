@@ -24,7 +24,7 @@ st.write(" 5. Gain insights through a Chatbot")
 
 #with st.expander("Show details"):
     #st.write("Here are the details...")
-st.image("meds1.png", width=300 )
+st.image("../../images/meds1.png", width=300 )
 
 data = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
 
