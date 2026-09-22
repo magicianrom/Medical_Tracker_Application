@@ -7,7 +7,11 @@ I created a digital medication tracker and personal health record application th
 The main features of my application are as follows :
 
 1- Adding new medication to the tracker which is added to the original Medical_Tracker.csv
+
 2- Search for medications by active ingredient/symptom
+
 3- Receive a beneficial tip
+
 4- View all logged medications which are added to My_Medications.csv
+
 5- Lastly, gaining an insights through a Chatbot
