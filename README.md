@@ -1,7 +1,7 @@
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/d87fc2b5-0a6c-425e-b2f4-1b6c36da4850" />
 
 
-# Digital Medication Tracker & Personal Health Record
+# Digital Medical Tracker
 
 A lightweight, Python-based health management application that allows users to seamlessly store, retrieve, and track daily medications alongside personal health logs. The application utilizes local `.csv` files for persistent data management.
 
