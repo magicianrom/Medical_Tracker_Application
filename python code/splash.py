@@ -27,7 +27,8 @@ st.write(" 5. Gain insights through a Chatbot")
 st.image("images/meds1.png", width=300)
 #st.image("../../images/meds1.png", width=300 )
 
-data = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
+data = pd.read_csv("csv/Medical_Tracker.csv")
+#data = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
 
 #added animation to process the data smoothly
 
