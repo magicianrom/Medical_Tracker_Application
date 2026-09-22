@@ -6,9 +6,10 @@ st.sidebar.markdown("# Browser an ingredient/symptoms and receive a tip")
 
 search = st.text_input("enter an ingredient or symptoms")
 
-
-st.image("../../images/pills1.png", width=300 )
-medicine = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
+st.image("images/pills1.png", width=300)
+#st.image("../../images/pills1.png", width=300 )
+medicine = pd.read_csv("csv/Medical_Tracker.csv")
+#medicine = pd.read_csv("../../excercises/week2/Medical_Tracker.csv")
 
 #search finds values from either symptoms or ingredient in medical data
 if st.button("Search"):
