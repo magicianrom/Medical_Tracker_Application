@@ -42,7 +42,7 @@ if st.button("Taken medicine"):
     }])
 
     my_medicine = pd.concat([my_medicine, df], ignore_index=True)
-    my_medicine.to_csv("../../excercises/week2/My_Medications.csv", index=False)
+    my_medicine.to_csv("csv/My_Medications.csv", index=False)
 
     st.success("Medicine taken!")
 
